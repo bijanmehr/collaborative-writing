@@ -1,8 +1,6 @@
 # Chapter 2 - Specific Aims
 
-# Erras obitumque minuunt vertitur
-
-## Conprensus fata
+#### Conprensus fata
 
 Lorem markdownum quanto Proserpina, tendens antra. Aera unam te ille ductus ita,
 sed **sanguis conata** suae nymphas florem arma offer. Maculatum ventis vestigia
