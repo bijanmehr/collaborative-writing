@@ -2,7 +2,9 @@
 
 This is the introduction to a large collaborative document, such as a grant application or study protocol.
 
-This rest of the document will be filler text.
+This rest of the document will be filler text. Except for this smiling hedgehog, because who doesn't like smiling hedgehogs...
+
+<img src="./figures/smiling-hedgehog.jpg" alt="Smiley face" height="400" align="middle">
 
 # Palmis tauros ramum suco iudex per
 
