@@ -2,9 +2,13 @@
 
 #### Example collaborative document for a friend.  Organized by chapter.  
 
-Each file is written in Markdown.  If you click on a file, it appears as a compiled HTML document.  Select 'Raw' in the upper right corner to view the raw Markdown text. For submission or distribution, each Markdown file can be converted to a separate Word document using a tool called Pandoc. Additional tools can compile all documents into a single Word document.
+Each file is written in Markdown.  If you click on a file, it appears as a compiled HTML document.  Select 'Raw' in the upper right corner to view the raw Markdown text. See 
+<a href="https://help.github.com/articles/editing-files-in-your-repository/" title="Editing files in Github">this link</a> for more detail.
 
-Collaborators need to set up Github accounts to participate.   The project (i.e. repository) owner controls then adds them as collaborators on the project and sets controls to what extent they can edit files.  
+
+For submission or distribution, each Markdown file can be converted to a separate Word document using a tool called Pandoc. Additional tools can compile all documents into a single Word document.
+
+Collaborators need to set up Github accounts to participate.   The project (i.e. repository) owner can then add these accounts as collaborators on the project.
 
 - Editing can be done on the website.  
 - Each change is saved by 'committing' the change.  
