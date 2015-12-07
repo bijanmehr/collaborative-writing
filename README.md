@@ -3,7 +3,7 @@
 #### Example collaborative document for a friend.  Organized by chapter.  
 
 Each file is written in Markdown.  If you click on a file, it appears as a compiled HTML document.  Select 'Raw' in the upper right corner to view the raw Markdown text. See 
-<a href="https://help.github.com/articles/editing-files-in-your-repository/" title="Editing files in Github">this link</a> for more detail.
+<a href="https://help.github.com/articles/editing-files-in-your-repository/" title="Editing files in Github">this link</a> for detail on editing files via the website.
 
 
 For submission or distribution, each Markdown file can be converted to a separate Word document using a tool called Pandoc. Additional tools can compile all documents into a single Word document.
